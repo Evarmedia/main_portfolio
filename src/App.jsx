@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <div>
+      <div className="navbar"> 
         <h1>Hello! I'm Mishak Mosi</h1>
         <p className="title">Web Developer</p>
       </div>
