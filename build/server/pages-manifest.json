@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/components/About": "pages/components/About.html",
+  "/components/Contact": "pages/components/Contact.html",
+  "/components/ContactForm": "pages/components/ContactForm.html",
+  "/components/Footer": "pages/components/Footer.html",
+  "/components/Header": "pages/components/Header.html",
+  "/components/Hero": "pages/components/Hero.html",
+  "/components/Projects": "pages/components/Projects.html",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
+}
