@@ -4,7 +4,7 @@ import config from "../index.json";
 const Projects = () => {
   const projects = config.projects;
   return (
-    <div id={projects.title} className="px-8 md:px-16 pb-16 bg-white">
+    <div id={projects.title} className="h-screen px-8 md:px-16 pb-16 bg-white overflow-y-scroll">
       <h1 className="pt-12 uppercase font-bold text-center text-black text-bold text-4xl">{projects.title}</h1>
       <div className="projects__menu">
         <ul>
