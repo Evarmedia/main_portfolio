@@ -37,7 +37,7 @@
       {
         "title": "E-cormmerce clone",
         "description": "An Shoe e-shop, implementing different filtering methods using react + vite.",
-        "url": "https://github.com/Evarmedia/ecom-clone",
+        "url": "https://ecom-clone-react.netlify.app/",
         "github": "https://github.com/Evarmedia/ecom-clone",
         "image": "/image.png"
       },
@@ -47,6 +47,41 @@
 				"url": "https://dt9g3g.csb.app/",
         "github": "https://codesandbox.io/s/randomquotegenerator-dt9g3g",
 				"image": "/RandomQuoteGenerator.png"
+			},
+      {
+				"title": "Markdown Previewer",
+				"description": "An Html markdown previewer built in react.",
+				"url": "https://8gxq76.csb.app/",
+        "github": "https://codesandbox.io/s/markdown-previewer-8gxq76",
+				"image": "/MarkdownPreview.png"
+			},
+      {
+				"title": "Markdown Previewer",
+				"description": "An Html markdown previewer built in react.",
+				"url": "https://8gxq76.csb.app/",
+        "github": "https://codesandbox.io/s/markdown-previewer-8gxq76",
+				"image": "/MarkdownPreview.png"
+			},
+      {
+				"title": "Markdown Previewer",
+				"description": "An Html markdown previewer built in react.",
+				"url": "https://8gxq76.csb.app/",
+        "github": "https://codesandbox.io/s/markdown-previewer-8gxq76",
+				"image": "/MarkdownPreview.png"
+			},
+      {
+				"title": "Markdown Previewer",
+				"description": "An Html markdown previewer built in react.",
+				"url": "https://8gxq76.csb.app/",
+        "github": "https://codesandbox.io/s/markdown-previewer-8gxq76",
+				"image": "/MarkdownPreview.png"
+			},
+      {
+				"title": "Markdown Previewer",
+				"description": "An Html markdown previewer built in react.",
+				"url": "https://8gxq76.csb.app/",
+        "github": "https://codesandbox.io/s/markdown-previewer-8gxq76",
+				"image": "/MarkdownPreview.png"
 			},
       {
 				"title": "Markdown Previewer",
